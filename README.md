@@ -1,6 +1,13 @@
 # moola_x
 
-A new Flutter project.
+A Flutter project demonstrating provider architecture by building a currency exchange app.
+
+## Screenshots
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/timilehinjegede/moola_x/master/screenshots/screenshot1.png" width="250" />
+  <img src="https://raw.githubusercontent.com/timilehinjegede/moola_x/master/screenshots/screenshot2.png" width="250" />
+</p>
 
 ## Getting Started
 
