@@ -5,8 +5,8 @@ A Flutter project demonstrating provider architecture by building a currency exc
 ## Screenshots
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/timilehinjegede/moola_x/master/screenshots/screenshot1.png" width="250" />
-  <img src="https://raw.githubusercontent.com/timilehinjegede/moola_x/master/screenshots/screenshot2.png" width="250" />
+  <img src="screenshots/screenshot1.png" width="450" />
+  <img src="screenshots/screenshot2.png" width="450" />
 </p>
 
 ## Getting Started
